@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="start"
             android:text="@string/ucrop_label_edit_photo"
-            android:textColor="@color/ucrop_color_toolbar_widget" />
+            android:textColor="@color/ucrop_color_black" />
 
     </androidx.appcompat.widget.Toolbar>
 
